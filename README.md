@@ -54,8 +54,8 @@
 
 ## Создание переменных перечисления.
 
-![1C](misc/images/q1.png)
-![1C](misc/images/q2.png)
+![1C](misc/images/q1.jpg)
+![1C](misc/images/q2.jpg)
 
 
 
