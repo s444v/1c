@@ -4,10 +4,12 @@
 
 ## Оглавление
 
-1. [Chapter I](#chapter-i) \
- 1.1. [Level 3. Room 4.](#level-3-Room-4)
-2. [Chapter II](#chapter-ii) \
- 2.1.  [Quest 1. Print Module.](#quest-1-print-module)\
+1. [Глава I](#chapter-i) \
+ 1.1. [Техническое задание.](#tz)
+ 1.2. [Диграмма переменных.](#d1)
+ 1.3. [Схема связей пользователей](#scheme)  
+2. [Глава II](#chapter-ii) \
+ 2.1.  [Создание переменных перечисления](#q1)\
 <!-- 
 3. [Chapter III](#chapter-iii) \
  3.1. [List 1.](#list-1) 
