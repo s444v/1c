@@ -44,3 +44,8 @@
 
 <!-- описание -->
 ![1C](misc/images/diagramma.png)
+
+## Схема связей пользователей.
+
+<!-- описание -->
+![1C](misc/images/scheme.png)
