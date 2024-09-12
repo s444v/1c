@@ -49,3 +49,13 @@
 
 <!-- описание -->
 ![1C](misc/images/scheme.png)
+
+# Глава II
+
+## Создание переменных перечисления.
+
+![1C](misc/images/q1.png)
+![1C](misc/images/q2.png)
+
+
+
